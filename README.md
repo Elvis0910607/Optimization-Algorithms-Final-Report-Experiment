@@ -14,4 +14,4 @@ The focus of this project is to evaluate and compare the performance of these op
   Features a projection-free approach and an auxiliary sequence for improved convergence, particularly in structured constraint settings.
 #### Reference
 The STORC algorithm is based on:
-Hazan, E., & Luo, H. (2016). Variance-Reduced and Projection-Free Stochastic Optimization. Proceedings of the 33rd International Conference on Machine Learning.
+Hazan, E., & Luo, H. (2016). Variance-Reduced and Projection-Free Stochastic Optimization.
